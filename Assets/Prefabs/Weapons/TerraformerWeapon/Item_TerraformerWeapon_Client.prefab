@@ -442,58 +442,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 100048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Name
-      value: Item_TerraformerWeapon_Client
-      objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Avatar
-      value: 
-      objectReference: {fileID: 9000000, guid: 9a473cf544f5f0842badbe82cb09097d, type: 3}
-    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: skeletonColor.r
-      value: 0.3580842
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: skeletonColor.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: skeletonColor.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.36
-      objectReference: {fileID: 0}
-    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_RenderingLayerMask
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: a260e44a268a6a64bb0ac8e25cfa4cf1, type: 2}
-    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 939266155233c14418f552c60206f1c5, type: 2}
-    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Materials.Array.data[2]
-      value: 
-      objectReference: {fileID: 2100000, guid: 9e9b94c497f3f8247bd990237b351889, type: 2}
-    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
-      propertyPath: m_Materials.Array.data[3]
-      value: 
-      objectReference: {fileID: 2100000, guid: 583df8e4be29f944b8cd0fb8820a5e53, type: 2}
     - target: {fileID: 2416683450423081274}
       propertyPath: m_Avatar
       value: 
@@ -734,6 +682,62 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Name
+      value: Item_TerraformerWeapon_Client
+      objectReference: {fileID: 0}
+    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400048, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+    - target: {fileID: 9500000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_CullingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: skeletonColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: skeletonColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: skeletonColor.b
+      value: 0.38812208
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a260e44a268a6a64bb0ac8e25cfa4cf1, type: 2}
+    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9e9b94c497f3f8247bd990237b351889, type: 2}
+    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 939266155233c14418f552c60206f1c5, type: 2}
+    - target: {fileID: 13700000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: 583df8e4be29f944b8cd0fb8820a5e53, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8a208e861797f14db629d906d9e98d1, type: 3}
 --- !u!1 &2416683450432555658 stripped
